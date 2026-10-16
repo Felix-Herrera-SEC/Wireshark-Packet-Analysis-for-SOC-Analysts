@@ -60,6 +60,24 @@ Capture and investigate TLS/HTTPS network traffic using Wireshark to analyze enc
 
 
 ## evidence (screenshots)
+1) <img width="765" height="207" alt="image" src="https://github.com/user-attachments/assets/04b05b7c-a58b-4fec-b69e-17183ada216b" />
+
+2)<img width="770" height="301" alt="image" src="https://github.com/user-attachments/assets/847f96c4-b41e-41ae-83cf-ebf8d5167d33" />
+
+3)<img width="882" height="182" alt="image" src="https://github.com/user-attachments/assets/d9f4d10a-0f1d-4d4b-ba68-c2e491f37b01" />
+
+4)<img width="875" height="727" alt="image" src="https://github.com/user-attachments/assets/e0a86586-034c-4ac4-bdbf-0d9486b5c3ab" />
+
+5)<img width="867" height="712" alt="image" src="https://github.com/user-attachments/assets/556b645b-1b26-403f-bd81-d8cc339122a7" />
+
+6)<img width="867" height="732" alt="image" src="https://github.com/user-attachments/assets/07c352c9-86d4-4d67-b534-f1a6e5226826" />
+
+
+
+
+
+
+
 
 
 
