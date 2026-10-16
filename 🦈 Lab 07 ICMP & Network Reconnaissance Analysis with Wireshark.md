@@ -62,6 +62,17 @@ Documented a simulated network reconnaissance investigation.
 
 ## evidence (screenshots)
 
+1)<img width="881" height="972" alt="image" src="https://github.com/user-attachments/assets/0c055d47-3128-4fcd-bf30-07faefa8d1bf" />
+
+2)<img width="886" height="716" alt="image" src="https://github.com/user-attachments/assets/33f88d6d-5004-42a8-b3b8-aba07778fe76" />
+
+3)<img width="872" height="847" alt="image" src="https://github.com/user-attachments/assets/be754ceb-f97f-4b04-bdac-5b41be099178" />
+
+4)
+
+
+
+
 
 
 ## SOC relevance 
